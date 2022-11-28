@@ -1,3 +1,3 @@
-# DTT Maze assignment
+# Maze Game
 
 See master branch
